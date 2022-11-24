@@ -17,7 +17,7 @@
   function testage () {
     var grade = prompt ("How old are you?");
       if (grade >= 18) {
-        alert ("You can continew your yourney");
+        alert ("You can continue your journey");
         } else {
         alert ("Get and instructor to help you with the exercises");
       }}
