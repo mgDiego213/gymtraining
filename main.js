@@ -17,9 +17,9 @@
   function testage () {
     var grade = prompt ("How old are you?");
       if (grade >= 18) {
-        document.body.innerHTML= "You can continew your yourney";
+        alert ("You can continew your yourney");
         } else {
-        document.body.innerHTML= "Get and instructor to help you with the exercises";
+        alert ("Get and instructor to help you with the exercises");
       }}
 
    //Metodo Generación Formulario
